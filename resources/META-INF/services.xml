@@ -1,6 +1,6 @@
 <service name="CustomService" scope="application">
     <description>
-        My Custom Service
+        AIPOS Lab
     </description>
     <messageReceivers>
         <messageReceiver mep="http://www.w3.org/ns/wsdl/in-only" class="org.apache.axis2.rpc.receivers.RPCInOnlyMessageReceiver" />
